@@ -1,0 +1,16 @@
+body{
+    background-color: antiquewhite;
+}
+
+h1{
+    margin-top: 10px;
+}
+
+.container{
+    margin-top: 50px;
+}
+#submitvalidation{
+    background-color: #EDC7B7;
+    border:  black solid #EDC7B7;
+    border-radius: 10px;
+}
