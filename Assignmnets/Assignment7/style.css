@@ -1,0 +1,25 @@
+body{
+    background-color: #EDC7B7;
+}
+.one, .two, .three{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+.three{
+    margin-top: 50px;
+}
+.two{
+    margin-top: 50px;
+} 
+#btn{
+    margin: 1%;
+    color: black;
+    padding: 6px;
+    background-color: #EDC7B7;
+}
+textarea{
+    border-color: black;
+}
